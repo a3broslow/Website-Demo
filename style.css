@@ -1,0 +1,33 @@
+
+/* This is awesome CSS */
+/* a way to comment in CSS */
+	div {
+		width: 50%;
+		float:;
+	}
+
+	h1 {
+		color: blue;
+	}
+	p {
+		margin-top:50px;
+		font-style: none;
+	}
+	p, ul, ol {
+		color: green;
+	}
+	img {
+		width: 100%;
+	}
+	#heading {
+		font-size: 50px;
+	}
+	.paragraph {
+		font-style: italic;
+	}
+	p.paragraph.introduction.featured{
+		padding-left: 20px;
+	}
+	div ul li {
+		background: red;
+	}
